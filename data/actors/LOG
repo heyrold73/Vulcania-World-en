@@ -1,0 +1,8 @@
+2024/02/21-09:11:57.955 d70 Recovering log #105
+2024/02/21-09:11:57.962 d70 Delete type=0 #105
+2024/02/21-09:11:57.962 d70 Delete type=3 #103
+2024/02/21-11:42:31.054 4688 Level-0 table #110: started
+2024/02/21-11:42:31.054 4688 Level-0 table #110: 0 bytes OK
+2024/02/21-11:42:31.057 4688 Delete type=0 #108
+2024/02/21-11:42:31.064 4688 Manual compaction at level-0 from '!actors!D7j9PVdDwHEWMOk3' @ 72057594037927935 : 1 .. '!folders!s4ALumuKjJ0AEHBH' @ 0 : 0; will stop at (end)
+2024/02/21-11:42:31.064 4688 Manual compaction at level-1 from '!actors!D7j9PVdDwHEWMOk3' @ 72057594037927935 : 1 .. '!folders!s4ALumuKjJ0AEHBH' @ 0 : 0; will stop at (end)
