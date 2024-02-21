@@ -1,0 +1,26 @@
+{
+  "title": "Vulcania World",
+  "description": "<h2>Vulcania</h2><p> Mondo customizzato per avere i Template disponibili</p>",
+  "id": "vulcania-world",
+  "system": "vulcania",
+  "joinTheme": "default",
+  "coreVersion": "11.308",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "authors": [
+    {
+      "name": "Heyrold",
+      "discord": "Heyrold#4406",
+      "flags": {}
+    }
+  ],
+  "systemVersion": "1.0.1",
+  "background": "worlds/vulcania-world/scenes/cover.png",
+  "url": "https://github.com/heyrold73/vulcania-world",
+  "manifest": "https://github.com/heyrold73/vulcania-world/releases/latest/download/world.json",
+  "download": "https://github.com/heyrold73/vulcania-world/releases/latest/download/world.zip",
+  "lastPlayed": "Wed Feb 21 2024 11:42:31 GMT+0100 (Ora standard dell’Europa centrale)",
+  "playtime": 32301
+}
