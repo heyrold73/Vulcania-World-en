@@ -1,8 +1,0 @@
-2024/03/07-20:46:51.611 3cac Recovering log #149
-2024/03/07-20:46:51.617 3cac Delete type=0 #149
-2024/03/07-20:46:51.617 3cac Delete type=3 #147
-2024/03/07-20:48:10.295 4ef4 Level-0 table #154: started
-2024/03/07-20:48:10.295 4ef4 Level-0 table #154: 0 bytes OK
-2024/03/07-20:48:10.295 4ef4 Delete type=0 #152
-2024/03/07-20:48:10.299 4ef4 Manual compaction at level-0 from '!scenes!7gZBsyS0MDGRrn1p' @ 72057594037927935 : 1 .. '!scenes!7gZBsyS0MDGRrn1p' @ 0 : 0; will stop at (end)
-2024/03/07-20:48:10.299 4ef4 Manual compaction at level-1 from '!scenes!7gZBsyS0MDGRrn1p' @ 72057594037927935 : 1 .. '!scenes!7gZBsyS0MDGRrn1p' @ 0 : 0; will stop at (end)
