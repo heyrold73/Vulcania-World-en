@@ -1,8 +1,0 @@
-2024/03/07-21:08:01.257 3cac Recovering log #154
-2024/03/07-21:08:01.269 3cac Delete type=0 #154
-2024/03/07-21:08:01.269 3cac Delete type=3 #152
-2024/03/07-21:10:54.530 4ef4 Level-0 table #159: started
-2024/03/07-21:10:54.530 4ef4 Level-0 table #159: 0 bytes OK
-2024/03/07-21:10:54.532 4ef4 Delete type=0 #157
-2024/03/07-21:10:54.535 4ef4 Manual compaction at level-0 from '!users!6RC1KAiM8xAiA8Ng' @ 72057594037927935 : 1 .. '!users!6RC1KAiM8xAiA8Ng' @ 0 : 0; will stop at (end)
-2024/03/07-21:10:54.558 4ef4 Manual compaction at level-1 from '!users!6RC1KAiM8xAiA8Ng' @ 72057594037927935 : 1 .. '!users!6RC1KAiM8xAiA8Ng' @ 0 : 0; will stop at (end)
